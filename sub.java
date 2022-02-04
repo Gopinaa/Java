@@ -1,0 +1,8 @@
+import java.io.*;
+
+public class sub{
+	public int sub(int a,int b){
+		int c= a-b;
+		return c;
+	}
+}
