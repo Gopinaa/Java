@@ -5,6 +5,6 @@ public class main{
 		child c=new child();
 		int sum=c.add(40,20);
 		System.out.println(sum);
-		
+		System.out.println("Addition");
 	}
 } 
